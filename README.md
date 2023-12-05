@@ -1,3 +1,3 @@
 # Time-Series-Processing
 
-run metal test as main.py,a example of impletation
+run metal test as main.py,a example of implementation
